@@ -24,4 +24,4 @@ for i in range ( size ) :
     line ( i , most_stars  )
 
 for i in range ( size - 2 , -1 , -1 ) :
-     line ( i , most_stars)
+     line ( i , most_stars )
